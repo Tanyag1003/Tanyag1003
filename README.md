@@ -41,7 +41,7 @@ Don Honrio Ventura State University <br>
 📫 How to reach me <br>
 
 <img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/gmail.svg" alt= "email" width = "100"> <br>
-<t>tanya.bartocillo003@gmail.com
+<t><a href= "url"> tanya.bartocillo003@gmail.com</a>
 
 <br>  
 <img src= "https://cdn4.iconfinder.com/data/icons/social-icons-6/40/phone-1024.png" alt="phone" height= "50" width="50"> <br> <u>09201030457</u>
@@ -49,11 +49,11 @@ Don Honrio Ventura State University <br>
 <h3 align="left">Connect with me:</h3>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width=50 height= 50 > <br>
-<t> https://www.facebook.com/tnybrtcll03<br>
+<t> <a href= "https://www.facebook.com/tnybrtcll03" > Tanya Bartocillo </a> <br>
 <br>
 
 <img src= "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="50" height="50"> <br>
-<t> @tnybrtcll
+<t> <a href="https://www.instagram.com/tny_brtcllo?igsh=MWdidHRiNDMwbnZtYg%3D%3D&utm_source=qr"> @tnybrtcll </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
