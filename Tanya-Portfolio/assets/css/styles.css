@@ -484,4 +484,8 @@ img {
     width: 450px;
   }
   
+  .text{
+    margin-bottom: var(--mb-2);
+    text-align: center;
+  }
 }
