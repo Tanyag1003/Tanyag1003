@@ -2,7 +2,7 @@
 <img src= "https://raw.githubusercontent.com/Tanyag1003/Tanyag1003/refs/heads/main/Tanya%20(2x2%20pic).png" alt="Image" width= "200" height= "200" class="center">
 
 
-# Tanya Bartocillo
+# Tanya Bartocillo 
 ### A passionate frontend developer from PhilippinesTo improve my knowledge and get more experiences that will help the organization and myself is my objective. 
 
 
