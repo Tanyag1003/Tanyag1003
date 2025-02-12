@@ -10,7 +10,7 @@
 ## Personal Information
 
 <img src= "https://raw.githubusercontent.com/Tanyag1003/Tanyag1003/refs/heads/main/map.jpg" alt="address" width= 50>
-<br> <t> Zone 1 Las Vegas Street Becuran, Sta. Rita, Pampanga <br>
+<br> Zone 1 Las Vegas Street Becuran, Sta. Rita, Pampanga <br>
 
 Date of Birth: October 03, 2003 <br>
 Age: 21 <br>
@@ -44,7 +44,7 @@ Don Honrio Ventura State University <br>
 <t>tanya.bartocillo003@gmail.com
 
 <br>  
-<img src= "https://cdn4.iconfinder.com/data/icons/social-icons-6/40/phone-1024.png" alt="phone" height= "50" width="50"> <br> <t><u>09201030457</u>
+<img src= "https://cdn4.iconfinder.com/data/icons/social-icons-6/40/phone-1024.png" alt="phone" height= "50" width="50"> <br> <u>09201030457</u>
 
 <h3 align="left">Connect with me:</h3>
 
