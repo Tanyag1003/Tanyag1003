@@ -7,10 +7,10 @@
 
 
 # About Me
-
 ## Personal Information
 
-<img src= "https://raw.githubusercontent.com/Tanyag1003/Tanyag1003/refs/heads/main/map.jpg" alt="address" width= 20> <t> Zone 1 Las Vegas Street Becuran, Sta. Rita, Pampanga 
+<img src= "https://raw.githubusercontent.com/Tanyag1003/Tanyag1003/refs/heads/main/map.jpg" alt="address" width= 50>
+<br> <t> Zone 1 Las Vegas Street Becuran, Sta. Rita, Pampanga <br>
 
 Date of Birth: October 03, 2003 <br>
 Age: 21 <br>
@@ -38,17 +38,23 @@ Don Honrio Ventura State University <br>
 
 <br>
 
-- 📫 How to reach me <br>
-<img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/gmail.svg" width = 55 height= 50> tanya.bartocillo003@gmail.com
-<t> 
+📫 How to reach me <br>
+
+<img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/social/gmail.svg" alt= "email" width = "100"> <br>
+<t>tanya.bartocillo003@gmail.com
+
 <br>  
-<img src= "https://cdn4.iconfinder.com/data/icons/social-icons-6/40/phone-1024.png" height= "55" width="50"> <u>09201030457</u>
+<img src= "https://cdn4.iconfinder.com/data/icons/social-icons-6/40/phone-1024.png" alt="phone" height= "50" width="50"> <br> <t><u>09201030457</u>
 
 <h3 align="left">Connect with me:</h3>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width=55 height= 50 > https://www.facebook.com/tnybrtcll03<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" width=50 height= 50 > <br>
+<t> https://www.facebook.com/tnybrtcll03<br>
+<br>
 
-<img src= "https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" width="100" height="50"> @tnybrtcll
+<img src= "https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="50" height="50"> <br>
+<t> @tnybrtcll
+
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> </p>
