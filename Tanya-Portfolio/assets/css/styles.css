@@ -483,4 +483,10 @@ img {
   .home__img {
     width: 450px;
   }
+
+.email{
+  margin: none;
+  border: none;
+  
+}
 }
